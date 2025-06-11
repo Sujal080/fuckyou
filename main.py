@@ -116,7 +116,7 @@ keyboard = InlineKeyboardMarkup(
     [
         [
             InlineKeyboardButton(text="📞 Contact", url="https://t.me/youcndoitbro"),
-            InlineKeyboardButton(text="🛠️ Help", url="https://youcndoitbro"),
+            InlineKeyboardButton(text="🛠️ Help", url="https://t.me/youcndoitbr"),
         ],
     ]
 )
